@@ -1,4 +1,4 @@
-![githublogo](https://github.com/itzanjali/Anjali-Prajapati/assets/130127087/f695d852-0c71-424f-9028-77e3c8e021e6)
+![githublogo](https://github.com/itzanjali/itzanjali/assets/130127087/f695d852-0c71-424f-9028-77e3c8e021e6)
 
 <h1 align="center">Hi 👋, I'm Anjali Prajapati</h1>
 <h3 align="center">A passionate Software developer from India</h3>
