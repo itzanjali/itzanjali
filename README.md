@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anjaliprajapati16022000@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/anjal/Downloads/anjali-prajapati-ap.pdf](file:///C:/Users/anjal/Downloads/anjali-prajapati-ap.pdf)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1e-aHCEYS-do6YzFm4DvkNbOb6Ht0Z4Lg/view?usp=drive_link">Anjali prajapati CV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
