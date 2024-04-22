@@ -1,6 +1,3 @@
-![githublogo](https://github.com/itzanjali/itzanjali/assets/130127087/6df7ad1f-2ff7-42ac-b773-2803281ded48)
-
-
 
 <h1 align="center">Hi 👋, I'm Anjali Prajapati</h1>
 <h3 align="center">A passionate Software developer from India</h3>
@@ -11,7 +8,7 @@
 
 - 📫 How to reach me **anjaliprajapati16022000@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1e-aHCEYS-do6YzFm4DvkNbOb6Ht0Z4Lg/view?usp=drive_link">Anjali prajapati CV
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1e-aHCEYS-do6YzFm4DvkNbOb6Ht0Z4Lg/view?usp=drive_link">Anjali Prajapati CV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
